@@ -1,4 +1,4 @@
-# Nallapati-map-reduce-EcommerceData
+# Nallapati-piping-map-reduce
 Basic map reduce using python on Ecommerce dataset.
 # Data
 For this map reduce we have taken Ecommerce data which contains invoices and number of transactions done by each customer.each customer is identified by customer id,this E-commerce data is a actual transactions from UK retailers.
